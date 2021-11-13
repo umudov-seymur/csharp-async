@@ -28,7 +28,6 @@ namespace TaskForPractical
                     Console.WriteLine("A");
                     Task.Delay(1000).Wait();
                 }
-
             });
         }
 
